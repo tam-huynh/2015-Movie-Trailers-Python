@@ -86,7 +86,8 @@ spectre = movie.Movie('Spectre',
                       'https://www.youtube.com/watch?v=ashLaclKCik')
 
 #Adding movies to a list
-movies = [exMachina, missionImpossibleRogueNation, jurassicWorld, madMax, avengersUltron, theHatefulEight, furious7, spectre]
+movies = [exMachina, missionImpossibleRogueNation, jurassicWorld,
+          madMax, avengersUltron, theHatefulEight, furious7, spectre]
 
 #Start the program
 fresh_tomatoes.open_movies_page(movies)
